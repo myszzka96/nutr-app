@@ -1,0 +1,93 @@
+body {
+  background-color: #8996a0;
+}
+h1 {
+  color: #565e65;
+  font-family: Georgia;
+  text-shadow: 0px 3px 6px;
+  font-size: 48px;
+}
+h2 {
+  text-align: center;
+  color: #fbde81;
+  font-family: Georgia;
+  text-shadow: 0px 3px 6px;
+  font-size: 29px;
+}
+button {
+  text-align: center;
+  color: #fbde81;
+  font-family: Georgia;
+  text-shadow: 0px 3px 6px;
+  font-size: 29px;
+  background-color: #8996a084;
+  width: 308px;
+  height: 70px;
+  border-radius: 15px;
+  opacity: 85%;
+  box-shadow: 0px 3px 6px;
+  box-align: center;
+}
+input {
+  text-align: center;
+  color: #565e65;
+  font-family: Adobe Myungjo Std;
+  font-size: 34px;
+  width: 457px;
+  height: 88px;
+  border-radius: 15px;
+  opacity: 85%;
+  box-shadow: 0px 3px 6px;
+}
+input[type="button"] {
+  text-align: center;
+  color: #fbde81;
+  font-family: Georgia;
+  text-shadow: 0px 3px 6px;
+  font-size: 29px;
+  background-color: #8996a084;
+  width: 308px;
+  height: 70px;
+  border-radius: 15px;
+  opacity: 85%;
+  box-shadow: 0px 3px 6px;
+  box-align: center;
+}
+input[type="submit"]:hover {
+  background-color: #6b7780b6;
+}
+
+.um-logo {
+  padding-top: 80px;
+  padding-left: 127px;
+  padding-right: 126px;
+  padding-bottom: 100px;
+  width: 515px;
+  height: 320px;
+}
+
+.App {
+  text-align: center;
+  background-color: #a2ad00;
+  border-radius: 15px;
+  width: 458px;
+  height: 356px;
+  padding-top: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 130px;
+  box-shadow: 0px 3px 6px;
+}
+
+.App2 {
+  text-align: center;
+  background-color: #a2ad00;
+  border-radius: 15px;
+  width: 458px;
+  height: 356px;
+  padding-top: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 130px;
+  box-shadow: 0px 3px 6px;
+}
